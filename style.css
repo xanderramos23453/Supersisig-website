@@ -1,0 +1,21 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+    position: absolute;
+    top: 0;
+    left: 45%;
+    top: 20%;
+    display: inline-block;
+    width: 200px;
+
+}
+form{
+    display: inline block;
+}
+form .submit{
+    left: 50%;
+}
